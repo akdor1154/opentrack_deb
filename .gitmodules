@@ -1,0 +1,3 @@
+[submodule "opentrack"]
+	path = opentrack
+	url = gh:opentrack/opentrack
